@@ -1,6 +1,6 @@
 {
   "name": "malta-jest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "malta minimal plugin to run jest on the fly",
   "main": "index.js",
   "repository": {
